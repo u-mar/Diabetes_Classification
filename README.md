@@ -1,14 +1,5 @@
+## Diabetes Classification
 ![Glassdoor](Utils/dia.jpeg)
-<div align="center">
-
-  <div id="user-content-toc">
-    <ul>
-      <summary><h1 style="display: inline-block;">Diabetes Classification</h1></summary>
-    </ul>
-  </div>
-
-</div>
-<br>
 
 ## 📝 Table of Contents
 
